@@ -1,0 +1,27 @@
+#new_game {
+    border: none;
+    background-color: #999999;
+    color: #d8fdff;
+    font-style: inherit;
+    padding: 15px 45px;
+    margin: 20px 0;
+    font-size: 25px;
+}
+
+#new_game:active {
+
+}
+.rows {
+    display: inline-block;
+    width: 160px;
+    height: 160px;
+    border: 1px solid #22202c;
+    /* background-image: url("src/img/Nolik.png"); */
+    background-position: center;
+    background-size: cover;
+}
+
+#winner {
+    padding: 10px 20px;
+    margin: 0 10px;
+}
